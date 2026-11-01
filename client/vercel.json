@@ -1,0 +1,8 @@
+{
+  "rewrites" : [
+    {
+      "source": "/projects/grievancehub/api/:match*",
+      "destination": "https://grievancehub-api.hariomsai.me/:match*"
+    }
+  ]
+}
