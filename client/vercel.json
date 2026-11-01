@@ -6,7 +6,7 @@
     },
     {
       "source": "/projects/grievancehub/:match*",
-      "destination": "/index.html"
+      "destination": "https://grievance-hub-feed.vercel.app/:match*"
     }
   ]
 }
